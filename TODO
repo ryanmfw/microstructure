@@ -1,0 +1,8 @@
+==========
+TODO
+==========
+
+*Fix fill(order) in orderbook.py, as it shares responsibilities with add_fill(fill)
+*Finish documentation
+*Write tests, especially for order flow
+*Split algorithms into separate project

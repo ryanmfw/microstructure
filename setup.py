@@ -10,7 +10,7 @@ setup(
     url='http://pypi.python.org/pypi/MicroStructure/',
     license='LICENSE.txt',
     description='Market microstructure analysis tool',
-    long_description=open('README.txt').read(),
+    long_description=open('README').read(),
     install_requires=[
        # "Django >= 1.1.1",
         #"caldav == 0.1.4",
