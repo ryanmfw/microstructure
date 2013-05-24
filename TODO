@@ -6,3 +6,4 @@ TODO
 *Finish documentation
 *Write tests, especially for order flow
 *Split algorithms into separate project
+*Investigate using Decimal, or ints with a multiplier to avoid floating point issues
